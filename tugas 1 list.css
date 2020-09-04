@@ -1,0 +1,9 @@
+ul {     background:blue;    
+ padding: 30px; }
+ ul li {     
+ background: lightblue;} 
+ 
+ol { background:red;
+padding: 30px;}
+
+ol li {background: pink;}
